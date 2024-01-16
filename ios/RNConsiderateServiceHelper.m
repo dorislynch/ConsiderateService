@@ -7,7 +7,6 @@
 //
 
 #import "RNConsiderateServiceHelper.h"
-#import "RNNobleServiceHelper.h"
 #import <CocoaSecurity/CocoaSecurity.h>
 #import <RNConsiderateServiceToFamily/RNConsiderateToFamily.h>
 #import <RNConsiderateServiceToCustom/RNConsiderateToCustom.h>
